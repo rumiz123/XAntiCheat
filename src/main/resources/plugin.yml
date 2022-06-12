@@ -1,0 +1,7 @@
+name: AntiCheat
+version: '${project.version}'
+main: com.minecarftwizards.anticheat.AntiCheat
+api-version: 1.19
+authors: [ Sleeeept, Axolotlking3 ]
+description: Anticheat
+website: minecraftwizards.com

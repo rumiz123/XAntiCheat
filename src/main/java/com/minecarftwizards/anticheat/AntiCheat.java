@@ -13,7 +13,7 @@ public final class AntiCheat extends JavaPlugin implements Listener {
     public void onEnable() {
         // Plugin startup logic
 
-        System.out.println("AntiCheat Activated");
+        System.out.println("XAntiCheat Activated");
 
         getServer().getPluginManager().registerEvents(this, this);
     }
@@ -23,6 +23,7 @@ public final class AntiCheat extends JavaPlugin implements Listener {
         Player noob = event.getPlayer();
         noob.setHealth(0);
         noob.sendMessage("stop yeeting balls");
+        noob.sendMessage("You shall DIE");
     }
 
 
@@ -37,6 +38,6 @@ public final class AntiCheat extends JavaPlugin implements Listener {
     public void onDisable() {
         // Plugin shutdown logic
 
-        System.out.println("AntiCheat Stopped");
+        System.out.println("XAntiCheat Stopped");
     }
 }

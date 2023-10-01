@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AntiCheat.iml" filepath="$PROJECT_DIR$/AntiCheat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XAntiCheat.iml" filepath="$PROJECT_DIR$/XAntiCheat.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-name: XAntiCheat
+name: AntiCheat
 version: '1.1'
 main: com.minecarftwizards.anticheat.AntiCheat
 api-version: 1.19
